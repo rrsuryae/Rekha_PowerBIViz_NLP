@@ -10,4 +10,5 @@ Also this compares the capabilities of the Power BI inherent features like QnA, 
    
 This project can be made enterprise scale by connecting the Custom Visual (powering) by connecting to an in-house domain fine tuned RAG/LLM, with guard rails - exposed behind an API gateway!
 
-<img width="1852" height="823" alt="image" src="https://github.com/user-attachments/assets/431e97c6-1783-4afb-b7d4-5ad1eec22c32" />
+<img width="1170" height="665" alt="image" src="https://github.com/user-attachments/assets/e6eff6a1-fee1-41fd-a816-423851130ed3" />
+
